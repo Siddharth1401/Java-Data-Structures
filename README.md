@@ -2,7 +2,7 @@
 
 Posting my Java DSA journey on Git Hub.
 
-Some have detailed codes and comments explaining them, while others are still in progress.
+Some topics have detailed codes and comments explaining them, while others are still in progress where I started but did not finish.
 
 Ideal way to start learning topics from top to bottom:
 
